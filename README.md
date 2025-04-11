@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 - 💻 I'm a self-taught web developer with a strong interest in **React.js** and cloud integration (Firebase).
-- 🚀 Currently building real-world projects to help small businesses go digital.
 - 📈 Actively looking for full-time or remote work opportunities in the web development field.
 <!--🎓 I’ve completed the [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/) course from Dicoding.-->
 
