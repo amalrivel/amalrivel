@@ -6,7 +6,6 @@
 ### 👨‍💻 About Me
 - 💻 I'm a self-taught web developer with a strong interest in **React.js** and cloud integration (Firebase).
 - 📈 Actively looking for full-time or remote work opportunities in the web development field.
-<!--🎓 I’ve completed the [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/) course from Dicoding.-->
 
 ---
 
@@ -17,14 +16,7 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!--
----
 
-### 📂 Projects I'm Working On
-- 💼 Simple Inventory App for small businesses (React + Firebase)
-- 🎯 Landing Page for Local Services (Tailwind + React)
-- 📝 Personal Portfolio Website (Next.js – coming soon)
--->
 ---
 
 ### 📫 Contact Me
@@ -34,22 +26,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalrivel&show_icons=true&theme=react" />
+### 📊 Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=amalrivel&theme=dark&show_icons=true" alt="amalrivel's Stats" height="154"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalrivel&theme=dark&layout=compact"  alt="amalrivel's Top Languages" height="154"/>
 </p>
-
-<!--
-**amalrivel/amalrivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
