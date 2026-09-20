@@ -1,34 +1,34 @@
-<h1 align="center">Hi 👋, I'm Ikhlas</h1>
-<p align="center">🌐 Self-taught Web Developer | React Enthusiast | Ready to Work Full-Time or Remote</p>
+# Hi, I'm Ikhlas 👋
 
----
+**Software Developer based in Japan**, building practical web applications from interface to data and product flow.
 
-### 👨‍💻 About Me
-- 💻 I'm a self-taught web developer with a strong interest in **React.js** and cloud integration (Firebase).
-- 📈 Actively looking for full-time or remote work opportunities in the web development field.
+I enjoy turning real problems into useful software and learning by building products end to end. My current focus is web application development with TypeScript, modern React tooling, and relational data.
 
----
+### What I'm building
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- **[Genshu](https://github.com/amalrivel/genshu)** — A practice-focused learning app for Indonesian students preparing for the Japanese gentsuki exam.  
+  `Next.js` · `TypeScript` · `Bun` · `shadcn/ui` — *In development*
 
----
+- **[Finori](https://github.com/amalrivel/finori)** — A personal finance system for tracking everyday financial activity across multiple accounts.  
+  `React Router` · `TypeScript` · `PostgreSQL` · `shadcn/ui` — *In development*
 
-### 📫 Contact Me
-- 📧 Email: amalrivel@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/amalrivel](https://linkedin.com/in/amalrivel)
-<!--💼 Portfolio: -->
+- **[Gentsuki Ready](https://github.com/amalrivel/gentsuki-ready-web)** — A lightweight gentsuki exam-practice app with quiz interaction, furigana, explanations, and local progress.  
+  `Preact` · `TypeScript` · `Vite` — **[Live](https://gentsuki-ready-web.vercel.app)**
 
----
+### Current toolkit
 
-### 📊 Statistics
+**Frontend**  
+React · Next.js · React Router · Preact · TypeScript
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amalrivel&theme=dark&show_icons=true" alt="amalrivel's Stats" height="154"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalrivel&theme=dark&layout=compact"  alt="amalrivel's Top Languages" height="154"/>
-</p>
+**Interface**  
+shadcn/ui · Tailwind CSS · Motion
+
+**Data**  
+PostgreSQL
+
+**Workflow**  
+Bun · Vite · Git · GitHub · Linux
+
+### Links
+
+[Portfolio](https://amalrivel.com) · [LinkedIn](https://linkedin.com/in/amalrivel) · [Email](mailto:amalrivel@gmail.com)
